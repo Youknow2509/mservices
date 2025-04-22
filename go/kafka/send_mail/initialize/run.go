@@ -16,4 +16,5 @@ func Run() {
 	
 	// Read and process messages from Kafka
 	ReaderAndProcess()
+
 }
