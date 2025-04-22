@@ -1,0 +1,11 @@
+sendgird:
+  api_key: ""
+kafka:
+  # bootstrap_server_mail: "localhost:9094"
+  bootstrap_server_mail: "kafka-0:9091"
+smtp:
+  host: "smtp.gmail.com"
+  port: "587"
+  user: "services.lytranvinh@gmail.com"
+  password: ""
+  from_address: "services.lytranvinh@gmail.com"
